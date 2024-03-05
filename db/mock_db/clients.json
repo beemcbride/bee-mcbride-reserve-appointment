@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "first_name": "Alice",
+        "last_name": "Williams"
+    },
+    {
+        "id": 2,
+        "first_name": "Bob",
+        "last_name": "Taylor",
+        "time_zone": "EST"
+    },
+    {
+        "id": 3,
+        "first_name": "Charlie",
+        "last_name": "Lee"
+    },
+    {
+        "id": 4,
+        "first_name": "Diana",
+        "last_name": "Davis",
+        "time_zone": "PST"
+    }
+]

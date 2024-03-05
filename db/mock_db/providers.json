@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "first_name": "John",
+        "last_name": "Doe",
+        "license": "Dr.",
+        "time_zone": "EST",
+        "licensed_states": [
+            "New York",
+            "New Jersey",
+            "Pennsylvania"
+        ]
+    },
+    {
+        "id": 2,
+        "first_name": "Jane",
+        "last_name": "Smith",
+        "license": "NP",
+        "time_zone": "CST",
+        "licensed_states": [
+            "Texas",
+            "Oklahoma"
+        ]
+    },
+    {
+        "id": 3,
+        "first_name": "Emily",
+        "last_name": "Johnson",
+        "license": "RN",
+        "time_zone": "PST",
+        "licensed_states": [
+            "California",
+            "Nevada",
+            "Oregon"
+        ]
+    },
+    {
+        "id": 4,
+        "first_name": "Michael",
+        "last_name": "Brown",
+        "license": "GP",
+        "time_zone": "MST",
+        "licensed_states": [
+            "Arizona",
+            "New Mexico",
+            "Utah"
+        ]
+    },
+    {
+        "id": 5,
+        "first_name": "Henry",
+        "last_name": "Jekyll",
+        "license": "Dr.",
+        "time_zone": "PST",
+        "licensed_states": [
+            "Washington"
+        ]
+    }
+]
